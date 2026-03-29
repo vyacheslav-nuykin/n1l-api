@@ -5,11 +5,11 @@
       "pages": [
         {
           "slug": "java-spring-basics",
-          "title": "Основы Spring Boot",
+          "title": "Основы Spring Boot"
         },
         {
           "slug": "java-gradle",
-          "title": "Gradle для продвинутых",
+          "title": "Gradle для продвинутых"
         }
       ]
     },
@@ -18,7 +18,7 @@
       "pages": [
         {
           "slug": "go-concurrency",
-          "title": "Горутины и каналы",
+          "title": "Горутины и каналы"
         }
       ]
     },
