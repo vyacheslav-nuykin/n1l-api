@@ -1,0 +1,26 @@
+{
+  "version": "v1",
+  "services": {
+    "n1l.ru": {
+      "type": "landing",
+      "status": "operational",
+      "url": "https://n1l.ru"
+    },
+    "1lz.ru": {
+      "type": "landing",
+      "status": "operational",
+      "url": "https://1lz.ru"
+    },
+    "go.n1l.ru": {
+      "type": "link_shortener",
+      "status": "operational",
+      "url": "https://go.n1l.ru"
+    },
+    "api.n1l.ru": {
+      "type": "static_api",
+      "status": "operational",
+      "url": "https://api.n1l.ru"
+    }
+  },
+  "status": "all systems nominal"
+}
