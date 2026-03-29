@@ -1,44 +1,33 @@
 {
   "categories": [
     {
-      "name": "java",
       "title": "Java",
-      "description": "Spring, Gradle, паттерны, JVM",
       "pages": [
         {
           "slug": "java-spring-basics",
           "title": "Основы Spring Boot",
-          "description": "IoC, DI, конфигурация"
         },
         {
           "slug": "java-gradle",
           "title": "Gradle для продвинутых",
-          "description": "многопроектная сборка, кастомизация"
         }
       ]
     },
     {
-      "name": "golang",
       "title": "Go",
-      "description": "concurrency, http-серверы, тестирование",
       "pages": [
         {
           "slug": "go-concurrency",
           "title": "Горутины и каналы",
-          "description": "модель CSP на практике"
         }
       ]
     },
     {
-      "name": "python",
       "title": "Python",
-      "description": "FastAPI, асинхронность, упаковка",
       "pages": []
     },
     {
-      "name": "devops",
       "title": "DevOps",
-      "description": "Docker, GitHub Actions, Cloudflare",
       "pages": []
     }
   ]
