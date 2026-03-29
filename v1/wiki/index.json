@@ -1,6 +1,7 @@
 {
   "categories": [
     {
+      "name": "java",
       "title": "Java",
       "pages": [
         {
@@ -14,6 +15,7 @@
       ]
     },
     {
+      "name": "golang",
       "title": "Go",
       "pages": [
         {
@@ -23,10 +25,12 @@
       ]
     },
     {
+      "name": "python",
       "title": "Python",
       "pages": []
     },
     {
+      "name": "devops",
       "title": "DevOps",
       "pages": []
     }
