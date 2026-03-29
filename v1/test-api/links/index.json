@@ -1,8 +1,0 @@
-{
-  "links": [
-    { "slug": "gh", "url": "https://github.com/vyacheslav-nuykin", "title": "GitHub" },
-    { "slug": "tg", "url": "https://t.me/vyacheslav_nuykin", "title": "Telegram" },
-    { "slug": "wiki", "url": "https://wiki.n1l.ru", "title": "Wiki" },
-    { "slug": "dash", "url": "https://dash.n1l.ru", "title": "Dashboard" }
-  ]
-}
