@@ -20,6 +20,11 @@
       "type": "static_api",
       "status": "operational",
       "url": "https://api.n1l.ru"
+    },
+    "wiki.n1l.ru": {
+      "type": "wiki",
+      "status": "operational",
+      "url": "https://wiki.n1l.ru"
     }
   },
   "status": "all systems nominal"
