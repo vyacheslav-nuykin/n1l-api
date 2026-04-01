@@ -1,15 +1,15 @@
 {
   "version": "v1",
   "services": {
-    "n1l.ru": {
-      "type": "landing",
-      "status": "operational",
-      "url": "https://n1l.ru"
-    },
     "1lz.ru": {
       "type": "landing",
       "status": "operational",
       "url": "https://1lz.ru"
+    },
+    "n1l.ru": {
+      "type": "landing",
+      "status": "operational",
+      "url": "https://n1l.ru"
     },
     "go.n1l.ru": {
       "type": "link_shortener",
@@ -25,6 +25,16 @@
       "type": "wiki",
       "status": "operational",
       "url": "https://wiki.n1l.ru"
+    },
+    "cdn.n1l.ru": {
+      "type": "cdn",
+      "status": "operational",
+      "url": "https://cdn.n1l.ru"
+    },
+    "dash.n1l.ru": {
+      "type": "dashboard",
+      "status": "operational",
+      "url": "https://dash.n1l.ru"
     }
   },
   "status": "all systems nominal"
